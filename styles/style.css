@@ -1,0 +1,7 @@
+.font{
+    font-family: "Manrope", sans-serif;
+}
+#slide:hover{
+    color: aliceblue;
+    background-color: rgb(0, 0, 0);
+}
