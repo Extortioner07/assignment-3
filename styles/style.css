@@ -1,3 +1,6 @@
+body{
+    padding: 0 2px;
+}
 .font{
     font-family: "Manrope", sans-serif;
 }
@@ -13,4 +16,25 @@
     transform: rotate(-120deg);
     font-size: 2rem;
     font-weight: 800;
+}
+#player-1{
+    background:rgba(19, 19, 24, 0.50);
+    border-radius: 15px;
+}
+#player-2{
+    background:rgba(19, 19, 24, 0.50);
+    border-radius: 12px;
+}
+#player-1 img{
+    mix-blend-mode: multiply;
+}
+#player-2 img{
+    mix-blend-mode: multiply;
+}
+#player-3{
+    background:rgba(19, 19, 24, 0.50);
+    border-radius: 8px;
+}
+#player-3 img{
+    mix-blend-mode: multiply;
 }
